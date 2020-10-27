@@ -13,5 +13,8 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
+- 💻 I’m currently studying at Universitas Diponegoro
 - 🌱 I’m currently learning Data Science with Python
+- 🤔 I’m looking for mentor
+- 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: fikriyusrihan@gmail.com
