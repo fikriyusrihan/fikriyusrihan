@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Fikri
-🌱 I’m currently learning Data Science with Python
-📫 How to reach me: fikriyusrihan@gmail.com;
+-🌱 I’m currently learning Data Science with Python
+-📫 How to reach me: fikriyusrihan@gmail.com;
 <!--
 **fikriyusrihan/fikriyusrihan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
