@@ -1,6 +1,6 @@
 
 ## ℹ About Me
-<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" />
+<img align="right" height="180px" alt="GIF" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" />
 <p> Hello There, I'm Fikri Yusrihan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></p>
 
 I live in Jakarta. A student of Informatics, Diponegoro University with a concentration in Software Engineering🏫. I love to learn new technologies especially in Mobile and Front-end Development📱. I'm looking to expand my portfolio and collaborate on something new👨‍💻.
