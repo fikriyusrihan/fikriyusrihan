@@ -9,9 +9,10 @@ You can use the website to generate badges: https://shields.io/
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:fikriyusrihan@gmail.com)
 
 ## ℹ About Me
+<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 I am Fikri Yusrihan 👷‍♂️
 
-I live in Jakarta and studying software engineering at Diponegoro University🏫. I'm looking to expand my portfolio and collaborate on something new.
+I live in Jakarta and studying at Diponegoro University pursuing Bachelors Degree in Computer Science🏫. I'm looking to expand my portfolio and collaborate on something new👨‍💻.
 
 ## ⚡ Technologies
 Talk to me about
