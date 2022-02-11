@@ -8,9 +8,10 @@ You can use the website to generate badges: https://shields.io/
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/fikriyusrihan/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:fikriyusrihan@gmail.com)
 
+## ℹ About Me
 I am Fikri Yusrihan 👷‍♂️
 
-I live in Jakarta, Indonesia and studying software engineering at Diponegoro University🏫.
+I live in Jakarta and studying software engineering at Diponegoro University🏫. I'm looking to expand my portfolio and collaborate on something new.
 
 ## ⚡ Technologies
 Talk to me about
