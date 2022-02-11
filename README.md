@@ -6,7 +6,6 @@
 I live in Jakarta. A student of Informatics, Diponegoro University with a concentration in Software Engineering🏫. I love to learn new technologies especially in Mobile and Front-end Development📱. I'm looking to expand my portfolio and collaborate on something new👨‍💻.
 
 ## ⚡ Technologies
-Talk to me about
 - Front-end development using **HTML, CSS, JavaScript (React.js)**
 - Backend development using **PHP**
 - Mobile development using **Kotlin**
