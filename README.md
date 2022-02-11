@@ -8,13 +8,16 @@ You can use the website to generate badges: https://shields.io/
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/fikriyusrihan/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:fikriyusrihan@gmail.com)
 
-&nbsp;
+I am Fikri Yusrihan 👷‍♂️
+I live in Jakarta, Indonesia and studying software engineering at Diponegoro University🏫.
 
-- 💻 I’m currently studying at Universitas Diponegoro
-- 🌱 I’m currently learning Data Science with Python
-- 🤔 I’m looking for mentor
-- 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: fikriyusrihan@gmail.com
+## ⚡ Technologies
+Talk to me about
+- Front-end development using **HTML, CSS, JavaScript (React.js)**
+- Backend development using **PHP**
+- Mobile development using **Kotlin**
+- Robust full-stack system design implementation
+- Solving Data structure and algorithm questions in **Javascript and Kotlin**
 
 ## 📈 Github Stats
 
