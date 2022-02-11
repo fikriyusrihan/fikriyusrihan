@@ -11,7 +11,8 @@ You can use the website to generate badges: https://shields.io/
 ## ℹ About Me
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" />
 I am Fikri Yusrihan 👷‍♂️
-
+<br/>
+<br/>
 I live in Jakarta. A student of Informatics, Diponegoro University with a concentration in Software Engineering🏫. I love to learn new technologies especially in Mobile and Front-end Development📱. I'm looking to expand my portfolio and collaborate on something new👨‍💻.
 
 ## ⚡ Technologies
