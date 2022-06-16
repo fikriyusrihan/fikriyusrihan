@@ -4,17 +4,14 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/fikriyusrihan/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:fikriyusrihan@gmail.com)
 
-<img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width='230px'/>
+<p> Hello There, I'm Fikri Yusrihan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"></p>
 
-<p> Hello There, I'm Fikri Yusrihan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></p>
-
-I live in Jakarta. A student of Informatics, Diponegoro University with a concentration in Software Engineering🏫. I love to learn new technologies especially in Mobile and Front-end Development📱. I'm looking to expand my portfolio and collaborate on something new👨‍💻.
+A student of Informatics, Diponegoro University with a passion in Software Engineering🏫. I love to learn new technologies especially in Mobile and Back-end Development📱. I'm looking to expand my portfolio and collaborate on something new👨‍💻.
 
 ## ⚡ Technologies
 - Front-end development using **HTML, CSS, JavaScript (React.js)**
-- Backend development using **PHP**
+- Backend development using **PHP, JavaSript**
 - Mobile development using **Kotlin**
-- Robust full-stack system design implementation
 - Solving Data structure and algorithm questions in **Javascript and Kotlin**
 
 ## 📈 Github Stats
