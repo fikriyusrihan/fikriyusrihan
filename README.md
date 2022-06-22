@@ -4,7 +4,7 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/fikriyusrihan/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:fikriyusrihan@gmail.com)
 
-<p> Hello There, I'm Fikri Yusrihan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"></p>
+<p> Hello there, I'm Fikri Yusrihan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"></p>
 
 A student of Informatics, Diponegoro University with a passion in Software Engineering🏫. I love to learn new technologies especially in Mobile and Back-end Development📱. I'm looking to expand my portfolio and collaborate on something new👨‍💻.
 
