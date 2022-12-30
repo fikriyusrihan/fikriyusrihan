@@ -12,7 +12,6 @@ A student of Informatics, Diponegoro University with a passion in Software Engin
 - Front-end development using **Vue**
 - Backend development using **Golang, JavaSript**
 - Mobile development using **Kotlin**
-- Solving Data structure and algorithm questions in **Javascript and Kotlin**
 
 ## 📈 Github Stats
 
