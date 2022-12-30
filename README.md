@@ -9,8 +9,8 @@
 A student of Informatics, Diponegoro University with a passion in Software Engineering🏫. I love to learn new technologies especially in Mobile and Back-end Development📱. I'm looking to expand my portfolio and collaborate on something new👨‍💻.
 
 ## ⚡ Technologies
-- Front-end development using **Vue**
-- Backend development using **Golang, JavaSript**
+- Frontend development using **Vue**
+- Backend development using **Golang, JavaScript**
 - Mobile development using **Kotlin**
 
 ## 📈 Github Stats
