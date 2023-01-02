@@ -274,9 +274,9 @@
 
   <!-- From Columbus... -->
   <g transform="translate(10, 48)" class="msg-2">
-    <rect width="490" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I live in Jakarta, Indonesia where it’s supposed to be</text>
-    <text x="15" y="50">82° F (28° C) all year round 🌞</text>
+    <rect width="360" height="66.1302" rx="18.0355" class="bubble" />
+    <text x="15" y="27">Welcome to my GitHub profile.</text>
+    <text x="15" y="50">Hope you find something useful here 💡</text>
   </g>
 
   <!-- typing 3 -->
@@ -299,9 +299,9 @@
 
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
-    <rect width="439" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I've interest in software engineering, especially in</text>
-    <text x="15" y="50">Back-end development 🧑‍💻</text>
+    <rect width="455" height="66.1302" rx="18.0355" class="bubble" />
+    <text x="15" y="27">I have an interest in software engineering,</text>
+    <text x="15" y="50">especially in Android and Back-end development 🧑‍💻</text>
   </g>
 
   <!-- typing 4 -->
@@ -352,7 +352,7 @@
   <!-- Thanks -->
   <g transform="translate(10, 240)" class="msg-5">
     <rect width="225" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Nice to e-meet you! 🙂</text>
+    <text x="15" y="27">Thanks for stopping by</text>
   </g>
 
   <!-- typing 6 -->
